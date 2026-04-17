@@ -1,0 +1,3 @@
+interface:
+  display_name: "Gepengfei Stock Judge"
+  short_description: "Judge whether a stock is buyable in a sharp 葛鹏飞-style framework"
